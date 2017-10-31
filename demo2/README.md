@@ -5,7 +5,7 @@ A small demo project that shows how to use Gulp, Babel, and Browserify for clien
 ## Installation
 
 * Install  [node](https://nodejs.org)
-* run `npm install`
+* run `yarn install`
 
 
 ## Usage
